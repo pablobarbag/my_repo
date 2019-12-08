@@ -1,4 +1,4 @@
-
+#He agregado este jodido comentario
 error=0
 linea=0
 columna=0
