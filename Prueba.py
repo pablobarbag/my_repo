@@ -1,4 +1,6 @@
-#He agregado este jodido comentario
+# He agregado este jodido comentario.
+# Ahora le he ingresado este otro jodido comentario.
+
 error=0
 linea=0
 columna=0
